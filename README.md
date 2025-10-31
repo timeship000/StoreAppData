@@ -2,4 +2,4 @@
 
 Just store data in ".zip"
 
-pass
+password
